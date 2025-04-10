@@ -1,0 +1,14 @@
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\bin\Debug\net9.0\IntroducaoAbstracao.exe
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\bin\Debug\net9.0\IntroducaoAbstracao.deps.json
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\bin\Debug\net9.0\IntroducaoAbstracao.runtimeconfig.json
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\bin\Debug\net9.0\IntroducaoAbstracao.dll
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\bin\Debug\net9.0\IntroducaoAbstracao.pdb
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\obj\Debug\net9.0\IntroducaoAbstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\obj\Debug\net9.0\IntroducaoAbstracao.AssemblyInfoInputs.cache
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\obj\Debug\net9.0\IntroducaoAbstracao.AssemblyInfo.cs
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\obj\Debug\net9.0\IntroducaoAbstracao.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\obj\Debug\net9.0\IntroducaoAbstracao.dll
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\obj\Debug\net9.0\refint\IntroducaoAbstracao.dll
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\obj\Debug\net9.0\IntroducaoAbstracao.pdb
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\obj\Debug\net9.0\IntroducaoAbstracao.genruntimeconfig.cache
+C:\Users\Eduardo.santos\Documents\ESTUDOS\Randstad - Backend com .NET\POO\IntroducaoAbstracao\obj\Debug\net9.0\ref\IntroducaoAbstracao.dll
